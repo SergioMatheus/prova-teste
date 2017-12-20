@@ -1,0 +1,10 @@
+Story:
+	Como programador eu desejo
+	testar o metodo de concatena??o de nomes
+(com/prova/teste/toy.story)
+Scenario: Unir nome e sobrenome
+Given usuario ira escrever nome em um campo e sobrenome em outro campo
+When ao clicar no botao unir os nomes
+Then mostrar nome e sobrenome unidos que sera Claudio Neiva
+
+
